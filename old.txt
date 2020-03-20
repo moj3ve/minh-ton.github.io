@@ -1,0 +1,18 @@
+<!DOCTYPE html> 
+<html> 
+<head> 
+	<title>Minh Ton's Personal Website</title> 
+	<meta http-equiv="refresh"
+		content="0; url = https://sites.google.com/view/minhton" /> 
+</head> 
+
+<body> 
+	<h1 style="text-align:center;color:blue;"> 
+		Welcome to Minh Ton's Personal Website... 
+	</h1> 
+	
+	<p style="text-align:center;color:green;"> 
+		You will be redirected to MinhTon's Website in 0 seconds... 
+</body> 
+</html> 
+
