@@ -132,6 +132,8 @@ job {
   cursor: pointer;
 }
 
+div#content iframe {width: 100%}
+
 @media screen and (max-width: 768px) {
 	.nav-menu {
 		background-color: #063647;
