@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <channel>
+    <title>Control Center Changelog</title>
+    <link>https://minh-ton.github.io/controlcenter/ccappcast.xml</link>
+    <description>Control Center Beta 3 brings new bug fixes and improvements to the app.</description>
+    <language>en</language>
+      <item>
+        <title>Version 0.1 (Beta 3)</title>
+        <description>
+          <![CDATA[
+            <ul>
+              <li>Added a new Software Updates feature, allows user to update to the latest version available.</li>
+              <li></li>
+              <li>Vestibulum nec tortor odio, nec malesuada libero. Cras vel convallis nunc.</li>
+              <li>Suspendisse tristique massa eget velit consequat tincidunt. Praesent sodales hendrerit pretium.</li>
+            </ul>
+          ]]>
+        </description>
+        <pubDate>Sat, 26 Jul 2014 15:20:11 +0000</pubDate>
+        <enclosure url="https://sparkle-project.org/files/Sparkle%20Test%20App.zip" sparkle:version="2.0" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+      </item>
+  </channel>
+</rss>
