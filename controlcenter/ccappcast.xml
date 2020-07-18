@@ -18,7 +18,7 @@
           ]]>
         </description>
         <pubDate>July 18th 2020</pubDate>
-        <enclosure url="https://minh-ton.github.io/controlcenter/ControlCenter.zip" sparkle:version="Beta 3" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
+        <enclosure url="https://github.com/Minh-Ton/minh-ton.github.io/raw/master/controlcenter/ControlCenter.zip" sparkle:version="Beta 3" length="107758" type="application/octet-stream" sparkle:dsaSignature="MCwCFCdoW13VBGJWIfIklKxQVyetgxE7AhQTVuY9uQT0KOV1UEk21epBsGZMPg==" />
       </item>
   </channel>
 </rss>
