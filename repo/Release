@@ -1,8 +1,8 @@
-Origin: Demo
-Label: Demo
+Origin: MinhTon's repo
+Label: MinhTon's repo
 Suite: stable
 Version: 1.0
-Codename: ios
+Codename: minhtonrepo
 Architectures: iphoneos-arm
 Components: main
-Description: Demo
+Description: MinhTon's Jailbreak Repository
