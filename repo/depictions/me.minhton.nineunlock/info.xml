@@ -1,0 +1,27 @@
+<package>
+   <id>me.minhton.nineunlock</id>
+    <name>NineUnlock</name>
+    <version>1.0.0-b1</version>
+    <compatibility>
+        <firmware>
+            <miniOS>13.0</miniOS>
+            <maxiOS>13.6</maxiOS>
+        </firmware>
+    </compatibility>
+    <dependencies>mobilesubstrate (>= 0.9.5000)</dependencies>
+    <dependencies>preferenceloader (>= 2.2.3)</dependencies>
+    <dependencies>ws.hbang.common (>= 1.11)</dependencies>
+    <descriptionlist>
+        <description>Bring back the iconic "slide to unlock" to iOS 13</description>
+        <longdescription><![CDATA[
+		<br>No options to configure.<br/>
+		<br>*This is a beta build, so there might be bugs in the tweak.*<br/>
+        ]]></longdescription>
+    </descriptionlist>
+    <screenshots>
+    </screenshots>
+    <changelog>
+	<change>Initial Release</change>
+    </changelog>
+    <links></links>
+</package>
