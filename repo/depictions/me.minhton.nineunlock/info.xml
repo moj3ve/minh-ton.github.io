@@ -19,6 +19,12 @@
         ]]></longdescription>
     </descriptionlist>
     <screenshots>
+	<screenshot>
+            <image>IMG_0118.PNG</image>
+        </screenshot>
+        <screenshot>
+            <image>IMG_0121.PNG</image>
+        </screenshot>
     </screenshots>
     <changelog>
 	<change>Initial Release</change>
