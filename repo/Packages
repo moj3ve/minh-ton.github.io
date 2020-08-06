@@ -5,7 +5,7 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.co
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
 Architecture: iphoneos-arm
 Filename: ./debs/me.minhton.nineunlock_0.0.1-b1_iphoneos-arm.deb
-Size: 23000
+Size: 22878
 MD5sum: 9d6df0b516ff0b8131a2499047b093d6
 SHA1: 4115d537baf4ff04835cc45c7ed859d14e36acea
 SHA256: 55ff7bdcc9c278e20b6777189a9510e2bbcdd43df3c5fc46ac6b87fa0129557a
