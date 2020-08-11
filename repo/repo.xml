@@ -9,8 +9,8 @@
 			<iconclass>fa fa-github</iconclass>
 		</link>
 		<link>
-			<url>https://discord.gg/mW2AEzX</url>
-			<iconclass>fab fa-discord</iconclass>
+			<url>mailto:ford.tonthat@gmail.com</url>
+			<iconclass>fa fa-envelop</iconclass>
 		</link>
 	</footerlinks>
 </repo>
