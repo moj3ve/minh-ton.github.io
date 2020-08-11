@@ -1,0 +1,16 @@
+<repo>
+	<footerlinks>
+		<link>
+	        <url>https://reddit.com/u/Minh-Ton</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+		<link>
+			<url>https://github.com/Minh-Ton</url>
+			<iconclass>fa fa-github</iconclass>
+		</link>
+		<link>
+			<url>https://discord.gg/mW2AEzX</url>
+			<iconclass>fab fa-discord</iconclass>
+		</link>
+	</footerlinks>
+</repo>
