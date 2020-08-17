@@ -3,4 +3,10 @@
 		<version>0.0.1-b1</version>
 		<change>Initial Release</change>
 	</changes>
+	<changes>
+		<version>1.0.0</version>
+		<change>First non-beta release</change>
+		<change>- Fixed the annoying passcode screen bug.</change>
+		<change>- Fixed the black passcode screen background.</change>
+	</changes>
 </changelog>

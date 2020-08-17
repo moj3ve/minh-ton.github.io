@@ -15,3 +15,21 @@ Author: MinhTon <ford.tonthat@gmail.com>
 Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
 Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
 Homepage: https://minh-ton.github.io
+
+Package: me.minhton.nineunlock
+Version: 1.0.0
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.common (>= 1.11), firmware (>= 13.0)
+Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
+Architecture: iphoneos-arm
+Filename: ./debs/me.minhton.nineunlock_1.0.0_iphoneos-arm.deb
+Size: 22878
+MD5sum: 537815253cb8aee1bb0c9f9fad94e299
+SHA1: e87e916abd0dacfddb2b2c45251f41f231162d1e
+SHA256: 5c2fb3a72b8263b4e8ee762d0f2a4faf7239e22364b83e62c18ccf5a3affc8d3
+Description: Bring back the iconic iOS 9 "Slide to Unlock" to iOS 13.
+Name: NineUnlock
+Author: MinhTon <ford.tonthat@gmail.com>
+Depiction: https://minh-ton.github.io/repo/depictions/?p=me.minhton.nineunlock
+Icon: https://minh-ton.github.io/repo/icons/NineUnlock/Icon.png
+Homepage: https://minh-ton.github.io
