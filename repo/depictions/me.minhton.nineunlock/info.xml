@@ -26,7 +26,8 @@
         </screenshot>
     </screenshots>
     <changelog>
-	<change>Release 1.0.0</change>
+	<change>- Fixed the annoying passcode screen bug.</change>
+	<change>- Fixed the black passcode screen background.</change>
     </changelog>
     <links></links>
 </package>
