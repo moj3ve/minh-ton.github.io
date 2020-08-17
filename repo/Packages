@@ -23,10 +23,10 @@ Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3), ws.hbang.co
 Conflicts: me.nepeta.nottoday12, io.ijapija00.notodayview, me.nepeta.slyd
 Architecture: iphoneos-arm
 Filename: ./debs/me.minhton.nineunlock_1.0.0_iphoneos-arm.deb
-Size: 23112
-MD5sum: 537815253cb8aee1bb0c9f9fad94e299
-SHA1: e87e916abd0dacfddb2b2c45251f41f231162d1e
-SHA256: 5c2fb3a72b8263b4e8ee762d0f2a4faf7239e22364b83e62c18ccf5a3affc8d3
+Size: 24810
+MD5sum: a6d75a32522704abb7a0041e2b741818
+SHA1: 1fbe35fc2fa9d5425d7a3e59dca92baa79728ac0
+SHA256: acbded79e452344e90d8d1ef43a2e10c8f147ba6af88f1201c57aff93a3c8153
 Description: Bring back the iconic iOS 9 "Slide to Unlock" to iOS 13.
 Name: NineUnlock
 Author: MinhTon <ford.tonthat@gmail.com>
